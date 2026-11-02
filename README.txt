@@ -1,0 +1,1 @@
+Maťkina knižná výzva: 60 hádaniek + bonusová 61. Všetky obrázky sú súčasťou ZIP, bez internetových závislostí. Obrázky sú štylizované farebné kompozície s piatimi predmetmi, nie ručne maľované filmové scény. Nahraj ZIP na Netlify Drop.
